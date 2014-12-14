@@ -1,0 +1,21 @@
+G:\Program Files\MEC\RCopy\Rcopy.exe.config
+G:\Program Files\MEC\RCopy\Rcopy.exe
+G:\Program Files\MEC\RCopy\Rcopy.pdb
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.csprojResolveAssemblyReference.cache
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.BatchSelector.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.frmEditor.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.frmMain.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.frmOptions.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.Properties.Resources.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.csproj.GenerateResource.Cache
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rcopy.exe
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rcopy.pdb
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rcopy.exe
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rcopy.pdb
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.BatchSelector.resources
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.frmEditor.resources
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.frmMain.resources
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.frmOptions.resources
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.Properties.Resources.resources
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.csproj.GenerateResource.Cache
+G:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Release\Rsync_Copy.csprojResolveAssemblyReference.cache

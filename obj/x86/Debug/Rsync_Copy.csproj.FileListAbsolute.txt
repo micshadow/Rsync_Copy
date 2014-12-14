@@ -1,0 +1,14 @@
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\bin\Debug\Rsync_Copy.exe
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\bin\Debug\Rsync_Copy.pdb
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.Properties.Resources.resources
+G:\Program Files\MEC\RCopy\Rcopy.exe
+G:\Program Files\MEC\RCopy\Rcopy.pdb
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.frmMain.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rcopy.exe
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rcopy.pdb
+G:\Program Files\MEC\RCopy\Rcopy.exe.config
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.BatchSelector.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.frmOptions.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.frmEditor.resources
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.csproj.GenerateResource.Cache
+D:\My Documents\visual studio 2010\Projects\Rsync_Copy\Rsync_Copy\obj\x86\Debug\Rsync_Copy.csprojResolveAssemblyReference.cache
